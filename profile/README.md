@@ -1,3 +1,5 @@
+![](https://github.com/The-Synergy-Framework/media-assets/blob/main/synergy_logo.png)
+
 <div align="center">
 
 # 🌐 The Synergy Framework
